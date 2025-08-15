@@ -205,10 +205,10 @@ Options: Battle Style to Set before leaving Brock's gym
 
 Menu 1-2 steps after defeating Moon Man:
 - Toss Pokeballs (if you haven't already & have a Paras)
-- Slot 4 - use **Rare Candy**
-- Slot 3 - teach **TM12** (WG) over Tackle (slot 2)
-- Slot 5 - use **Moon Stone**
-- Slot 4 - teach **TM01** (MP) over Leer (slot 1)  
+- use **Rare Candy**
+- teach **TM12** (WG) over Tackle (slot 2)
+- use **Moon Stone**
+- teach **TM01** (MP) over Leer (slot 1)  
 
 > If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude).      
 > This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve Bridge ranges, let you HA both Bridge Zubat, + usually Thrash 2nd Oddish before Bill.        
