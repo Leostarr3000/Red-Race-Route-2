@@ -421,9 +421,9 @@ Vermillion Mart:
 - 4 Parlyz Heals
 
 **Cut Menu**:
-- Slot 7 - Teach **TM11** (BB) over Slot 4 (PS)
-- [Slot 8 - use Rare Candy, if you fought the Gentleman]
-- Slot 7 - Teach **HM01** (Cut) to Paras
+- Teach **TM11** (BB) over Slot 4 (PS)
+- use Rare Candy, if you fought the Gentleman]
+- Teach **HM01** (Cut) to Paras
 - Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
 
@@ -457,7 +457,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 **Bike Menu**:
   - Swap Slot 1 - **Potion** down 9 w/ Bike
-  - U1 Teach **TM24** (TB) over Slot 3 (HA)
+  - Up 1 Teach **TM24** (TB) over Slot 3 (HA)
   - Use the Bike
 
 ## Route 9
@@ -499,9 +499,9 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 - **Oddish Girl**
     - 1-17 or 23+ HP --> Thrash turn 1
-    - 18-22 HP --------> TB + Thrash
-	   - Sleep --------> Potion under 6 HP.
-       - Para'd -------> keep using Thrash, but use Potion under 14 HP.
+    - 18-22 HP ----> TB + Thrash
+	   - Sleep ----> Potion under 6 HP.
+       - Para'd ----> keep using Thrash, but use Potion under 14 HP.
        - Do not use Para Heal in fight, use it in the next Repel Menu instead.
 
 - **Hiker**: BB x3
@@ -535,28 +535,27 @@ Celadon Mart:
 	- Sell TM34
 	- Sell both Nuggets
 	- Buy TM07
-	- Buy 7 Super Repels
-	- Buy 4 Super Potions
-	- Buy 2 Revives
+	- 7 Super Repels
+	- 4 Super Potions
+	- 2 Revives
 - Floor 4:
-	- Buy Poke Doll
+	- Poke Doll
 - Roof:
-	- Buy Soda Pop and trade it to the girl
-	- Come back and buy Fresh Water
+	- Soda Pop and trade it to the girl
+	- Fresh Water
 - Floor 5:
-	- Buy 12 X Accuracy
-	- Buy 9 X Special
-	- Buy 1 X Speed
+	- 12 X Accuracy
+	- 9 X Special
+	- 1 X Speed
 
 Take the elevator and get HM02 (Fly)
 
 Fly Menu (1):
-- Swap S2 **Helix** d8 w/ **TM07**
-- d1 use **Super Repel**
-- d4 teach **TM48** (RS) over Slot 1 (MP)
-Fly Menu (2):
-- Swap S3 **S.S.Ticket** d13 w/ **X Accuracy**
-- d3 Teach **HM02** to bird
+- **Helix** w/ **TM07**
+- D1 use **Super Repel**
+- D4 teach **TM48** (RS) over Slot 1 (MP)
+- Swap **S.S.Ticket** D13 w/ **X Accuracy**
+- D3 Teach **HM02** to bird
 - Fly (D3) to Lavender
 
 ## Lavender Town
