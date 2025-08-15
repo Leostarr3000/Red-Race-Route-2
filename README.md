@@ -647,10 +647,10 @@ Get the Card Key
 **Silph Rocket - with 78+ HP**: 
 - Cubone:
     - **X Accuracy**
-    - if Bone Club hits, then d6 use **Elixer** (3 below Parlyz Heal)
+    - if Bone Club hits, then use **Elixer** (3 below Parlyz Heal)
     - BB
 - Drowzee:
-    - d6 use **Elixer** [if you haven't already]
+    - use **Elixer** (3 below Parlyz Heal) [if you haven't already]
     - HD
 - Marowak:
     - HD
@@ -671,8 +671,8 @@ Dig out w/ Paras
 
 Menu before Snorlax:
 - Slot 4 - **Repel**
-- d1 swap **Parlyz Heal** d11 w/ **Rare Candy** (2 below X Special)
-- d1 use **Poke Flute**
+- swap **Parlyz Heal** d11 w/ **Rare Candy** (2 below X Special)
+- use **Poke Flute**
 
 ## Cycling Road
 
@@ -682,7 +682,7 @@ Menu before Snorlax:
 
 **EQ Menu**:
 - Slot 4 - **Repel**
-- d2 swap **Potion** d8 w/ **X Special** (4 below HM01)
+- swap **Potion** w/ **X Special**
 - d5 teach **TM26** (EQ) over Slot 2 (Thrash)
 - Use Bike
 
@@ -692,7 +692,7 @@ Menu before Snorlax:
 
 ## Safari Zone
 
-- Use Slot 3 - **Super Repel** in Zone 2 around the tile shown below:
+- Use **Super Repel** in Zone 2 around the tile shown below:
 - <img src="https://i.imgur.com/6SNJtan.png" width = "150">
 
 
@@ -711,7 +711,7 @@ Menu before Snorlax:
 **Koga:**
 - EQ x3
 - Weezing:
-    - Slot 8 - **Elixer**  (3 below Rare Candy)
+    - **Elixer**  (3 below Rare Candy)
 	- If X Attack, scroll Up 2 to use X Special
 
 | HP after SD on Koga |      Red Bar Lost on...       | Overview of Strategy                                                                                                       
@@ -938,10 +938,10 @@ Any HP | Heal to 45+ for safety | or yolo if required
 - (Only Save if you have zero Revives or if you have only one X Accuracy left.)
 
 **Champion:**
-- Pidgeot Turn 1: **Slot 3 - X Special**
+- Pidgeot Turn 1: **X Special**
 - Pidgeot Turn 2: 
 	- If Pidgeot does NOT use Sky Attack turn 1:
-		- Pidgeot: **Up 1 - X Acc** + HD
+		- Pidgeot: **UP 1 X Acc** + HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
